@@ -1,0 +1,7 @@
+config.py
+__pycache__/
+.vscode
+requirements.txt
+Tweet_School_Data_Script.bat
+Book1.xlsx
+mongoDBConnString.py
